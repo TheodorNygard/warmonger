@@ -1,0 +1,18 @@
+{
+    "id": "warmonger",
+    "title": "Warmonger - Time to Fight",
+    "description": "Adds army sheets and simple combat mechanics for DnD 5E based on UA",
+    "authors": [
+      {
+      "name": "TheNygDev"
+      }
+      ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "10"
+    },
+    "scripts":[
+        "scripts/main.js"
+    ]
+  }
